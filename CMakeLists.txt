@@ -7,7 +7,7 @@ cmake_minimum_required(VERSION 3.8)
 project( stream_server
          VERSION 0.1.0
          DESCRIPTION "project based on ffmpeg"
-         HOMEPAGE_URL "https://github.com/eric2003/OneFLOW"
+         HOMEPAGE_URL "https://github.com/fanjiaheng/stream-server"
          LANGUAGES CXX
         )
 message( STATUS "CMAKE_PROJECT_NAME = ${CMAKE_PROJECT_NAME}" )
